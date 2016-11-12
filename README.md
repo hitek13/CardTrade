@@ -22,7 +22,7 @@ Base de datos s(los nombres pueden variar):
 
 Tabla 1: 	Usuarios (idUsuarioNick, Pass, Correo, Cartas vendidas, Avatar, País,  Edad?, Sexo?, Otros?)
 
-Tabla2:	  	Cartas (idCarta, Nombre, Imágen, Edicion, EstadoCarta, Atributos?, AtrEspeciales, Otros?)
+Tabla2:	  	Cartas (idCarta, Nombre, Imágen, Edicion, Estado, Idioma, Foil, Atributos?, AtrEspeciales, Otros?)
 
 Tabla3:	  	Usuarios-Cartas (idCarta, idUsuario, Precio, Otros?)
 
