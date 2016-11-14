@@ -20,11 +20,11 @@ index.php "Página de bienvenida, novedades, buscador y log-in de usuarios"
 	
 Base de datos s(los nombres pueden variar):
 
-Tabla 1: 	Usuarios (idUsuarioNick, Pass, Correo, Cartas vendidas, Avatar, País,  Edad?, Sexo?, Otros?)
+Tabla 1: 	Usuarios (idUsuario, Nick, Pass, Correo, Direccion, FecNac, Otros)
 
-Tabla2:	  	Cartas (idCarta, Nombre, Imágen, Edicion, Estado, Idioma, Foil, Atributos?, AtrEspeciales, Otros?)
+Tabla2:	  	Cartas (idCarta, Nombre, Imágen, Edicion, AtrEspeciales, Otros?)
 
-Tabla3:	  	Usuarios-Cartas (idCarta, idUsuario, Precio, Otros?)
+Tabla3:	  	Usuarios-Cartas (idCarta, idUsuario, Precio, Foil, FullArt, Texture, Estado, Idioma, Cantidad)
 
 Tabla4:	  	Atributos? (idAtributo, Nombre, Descripcion, Otros?)
 
