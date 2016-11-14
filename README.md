@@ -19,7 +19,9 @@ index.php "Página de bienvenida, novedades, buscador y log-in de usuarios"
 	mipagina.php "Página donde el usuario puede cambiar sus datos o borrar su cuenta"
 	
 Base de datos (los nombres pueden variar):
-Estamos trabajando en ello, hemos dedicado tiempo ayer y hoy por la mañana a trabajar en ello exactamente
-
+<br>
+<h3>
+"Estamos trabajando en ello, hemos dedicado tiempo ayer y hoy por la mañana a trabajar en ello exactamente"</h3>
+Aznar
 	
 	
